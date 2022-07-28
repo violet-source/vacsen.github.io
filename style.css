@@ -45,7 +45,9 @@ a { color:#08519c; text-decoration:underline;}
 .header2 .nav_menu ul li { margin:0; padding:0 6px; float:left;}
 .header2 .nav_menu ul li a { display:block; margin:0; padding:4px 12px; color:#fff; text-decoration:blink; font-size:15px; font-weight: bold;}
 .header2 .nav_menu ul li a:hover, .header2 .nav_menu ul li.active a { background-color:#6baed6; border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px;}
-
+.authors a{
+  font-size: 1.5em;
+}
 
 /* content */
 .content { }
@@ -189,3 +191,4 @@ ul#group-member li {
 .title{
     font-size: large;
 }
+
